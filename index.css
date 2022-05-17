@@ -1,0 +1,27 @@
+body{
+    background-image: url('img/mm.jpg');
+    /* -webkit-bacground-size:cover;
+    background-size: cover; */
+    font-family: 'press Start 2p', cursive;
+}
+.rowHeight{
+    height: 500px;
+}
+.h1{
+    color: #000;
+    font: size 2.5cm; 
+}
+.bg{
+    background-color: #c1c1c1;
+    opacity: 0.8;
+}
+.footer{
+    background-color: white;
+    position: fixed;
+    bottom: 0;
+
+}
+p{
+    font-size: 18px;
+    padding: 20px;
+}
